@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MiKee-1/MiKee-1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+   ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 <div align="center">
