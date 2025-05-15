@@ -19,4 +19,4 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </div>
 
-![snake animation](https://github.com/MiKee-1/MiKee-1/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/MiKee-1/MiKee-1/blob/output/github-contribution-grid-snake.gif)
