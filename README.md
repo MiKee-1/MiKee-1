@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-   ![snake animation](https://github.com/MiKee-1/MiKee-1/blob/output/github-contribution-grid-snake2.svg)
+   https://github.com/MiKee-1/MiKee-1/blob/output/github-contribution-grid-snake2.svg
 </div>
 
 <div align="center">
