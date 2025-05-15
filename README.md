@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/MiKee-1/MiKee-1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
+
+<div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a student in Computer engineerging specializing in Cloud Computing and Industry 4.0.</p>
     <p>I have interests in Distributed Systems, Cloud Computing, AI (Deep Learning and Machine Learning) and also in Cybersecurity.</p>
