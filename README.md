@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/MiKee-1/MiKee-1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 <!--
 **MiKee-1/MiKee-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
