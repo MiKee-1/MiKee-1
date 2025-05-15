@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-![snake animation](https://github.com/MiKee-1/MiKee-1/blob/output/github-contribution-grid-snake2.svg)
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MiKee-1/MiKee-1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
