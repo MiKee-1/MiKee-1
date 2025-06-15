@@ -42,12 +42,4 @@
 
 ---
 
-## 🐍 GitHub Contributions
-
-<div align="center">
-  <img src="https://github.com/MiKee-1/MiKee-1/blob/output/github-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
 
