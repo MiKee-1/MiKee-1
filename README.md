@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#38BDF8;">MiKee-1</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Passionate+about+Tech;Inspired+By+The+Extraordinary+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Passionate+about+Tech;Inspired+By+The+Extraordinary;Cybersecurity+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
