@@ -12,10 +12,7 @@
 🧠 My passions include:
 - Distributed Systems  
 - Cloud Infrastructure  
-- Deep Learning & Machine Learning  
-- Cybersecurity  
-
-🌍 I love exploring the synergy between **AI** and **secure, scalable systems**.
+- Cybersecurity IT/OT
 
 ---
 
