@@ -8,11 +8,12 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **Computer Engineering** student, specializing in **Cloud Computing** and **Industry 4.0**.  
+🎓 I'm a **Computer Engineering** student, specializing in **Cybersecurity IT/OT* and **Industry 4.0**.  
 🧠 My passions include:
 - Distributed Systems  
 - Cloud Infrastructure  
 - Cybersecurity IT/OT
+- Industry 4.0 / 5.0
 
 ---
 
