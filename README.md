@@ -10,11 +10,8 @@
 
 🎓 I'm a **Computer Engineering** student, specializing in **Industry 4.0**.  
 🧠 My focus areas are:
-- Distributed Systems
-- HPC  
 - Cloud Infrastructure  
 - Cybersecurity IT/OT
-- Industry 4.0 / 5.0
 - IIoT
 
 ---
