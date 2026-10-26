@@ -6,17 +6,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 I'm a **Computer Engineering** student, specializing in **Industry 4.0**.  
-🧠 My focus areas are:
+I'm a **Computer Engineering** student, specializing in **Industry 4.0**.  
+My focus areas are:
 - Cloud Infrastructure  
 - Cybersecurity IT/OT
 - IIoT
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
